@@ -1,4 +1,5 @@
 #Creating Plot 2
+#Updated 2017
 
 #Importing data and subsetting
 household_power_consumption <- read.csv("C:/R Files/household_power_consumption.txt", sep=";", stringsAsFactors=FALSE)
